@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "Academic Papers"
+layout: Papers
+permalink: /Papers/
 author_profile: true
 ---
