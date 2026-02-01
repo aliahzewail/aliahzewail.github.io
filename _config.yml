@@ -59,7 +59,7 @@ plugins:
 author:
   name: "Aliah Zewail"
   avatar: "/assets/images/Headshot.PNG"
-  bio: "azewail[at]umass[dot]edu"
+  bio: "azewail@umass.edu"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
