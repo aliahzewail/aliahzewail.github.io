@@ -1,16 +1,30 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: single
 author_profile: true
+permalink: /
 ---
-## News
 
-<ul class="taxonomy__index">
+<h2>About me</h2>
+
+<p>
+  Hello! I’m Aliah Zewail, an NSF Graduate Research Fellow and PhD student in Social Psychology at the University of Massachusetts Amherst, where I work with Dr. Mohammad Atari in the Culture and Morality Lab. My research sits at the intersection of moral psychology, cultural evolution, and computational social science.
+</p>
+
+<p>
+  I study the historical origins of cultural and moral attributions, how they change across time and space, and their impact on societal institutions and collective behavior. My work integrates psychometrics, econometrics, and computational methods to pursue these questions.
+</p>
+
+<hr class="hr--small">
+
+<h2>Recent News!</h2>
+
+<ul class="news-list">
   {% for item in site.data.news %}
-    <li>
-      <strong>{{ item.date }}:</strong> {{ item.text }}
-    </li>
+    <li><strong>[{{ item.date }}]</strong> {{ item.text }}</li>
   {% endfor %}
 </ul>
+
+<style>
+  .news-list { margin-top: 0.75rem; }
+  .news-list li { margin-bottom: 0.5rem; }
+</style>
