@@ -5,3 +5,12 @@
 layout: home
 author_profile: true
 ---
+## News
+
+<ul class="taxonomy__index">
+  {% for item in site.data.news %}
+    <li>
+      <strong>{{ item.date }}:</strong> {{ item.text }}
+    </li>
+  {% endfor %}
+</ul>
