@@ -3,18 +3,13 @@ layout: home
 author_profile: true
 ---
 
-## News
+<h2>Recent News!</h2>
 
-<ul class="taxonomy__index">
+<ul style="list-style: none; padding-left: 0;">
   {% for item in site.data.news %}
-    <li>
-      <strong>{{ item.date }}:</strong> {{ item.text }}
+    <li style="margin-bottom: .6rem;">
+      <strong>[{{ item.date }}]</strong> {{ item.text }}
     </li>
   {% endfor %}
 </ul>
 
-<small>
-  For a full list of activities, see my <a href="/cv/">CV</a>.
-</small>
-
-<hr class="hr--small">
