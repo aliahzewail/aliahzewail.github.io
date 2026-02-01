@@ -1,6 +1,6 @@
 ---
-title: "Academic Papers"
-layout: Papers
-permalink: /Papers/
+title: "Publications"
+layout: Publications
+permalink: /publications/
 author_profile: true
 ---
