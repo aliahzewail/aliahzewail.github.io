@@ -15,10 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Aliah Zewail
 email: azewail@umass.edu
-description: >-
-  Social psychology PhD student at UMass Amherst investigating the historical origins of cultural and moral attributions,
-  how they change across time and space, and their impact on societal institutions. I use psychometrics, econometrics,
-  and computational methods to pursue these questions.
+description: 
 
 # twitter_username: username
 github_username: aliahzewail
@@ -62,7 +59,7 @@ plugins:
 author:
   name: "Aliah Zewail"
   avatar: "/assets/images/Headshot.PNG"
-  bio: "NSF Graduate Research Fellow | PhD student at University of Massachusetts Amherst"
+  bio: "azewail[at]umass[dot]edu"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
