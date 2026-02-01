@@ -14,14 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Aliah Zewail
-email: azewail[at]umass[dot]edu
-description: >- # this means to ignore newlines until "baseurl:"
- Social psychology PhD student at UMass Amherst investigating the historical origins of cultural and moral attributions, 
- how they change across time and space, and their impact on societal institutions. I use psychometrics, econometrics, 
- and computational methods to pursue these questions.
+email: azewail@umass.edu
+description: >-
+  Social psychology PhD student at UMass Amherst investigating the historical origins of cultural and moral attributions,
+  how they change across time and space, and their impact on societal institutions. I use psychometrics, econometrics,
+  and computational methods to pursue these questions.
+
 # twitter_username: username
 github_username: aliahzewail
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dirt
 search: true
 
 # Build settings
@@ -31,7 +32,8 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York
+
 
 include:
   - _pages
