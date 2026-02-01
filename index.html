@@ -5,43 +5,46 @@ permalink: /
 ---
 
 <style>
-  /* Let the main text use more horizontal space */
-  .page__content,
+  /* Wider content area */
   .page__inner-wrap {
     max-width: 1100px;
   }
 
-  /* Slightly shrink the sidebar so content gains space */
-  .sidebar {
-    width: 260px;
-  }
-
-  /* Text tuning */
+  /* Give the main column more room next to the sidebar */
   .page__content {
+    max-width: 1100px;
     font-size: 0.9rem;
     line-height: 1.55;
   }
 
-  .news-list {
-    margin-top: 0.75rem;
+  /* Slightly shrink sidebar */
+  .sidebar {
+    width: 260px;
   }
 
-  .news-list li {
-    margin-bottom: 0.5rem;
-  }
+  .news-list { margin-top: 0.75rem; }
+  .news-list li { margin-bottom: 0.5rem; }
 </style>
+
 <h2>About me</h2>
-  <p>
-Hello! I'm Aliah Zewail, an NSF Graduate Research Fellow and PhD student in Social Psychology at the University of Massachusetts Amherst, where I work with Dr. Mohammad Atari in the <a href="https://websites.umass.edu/matari/" target="_blank" rel="noopener"> Culture and Morality Lab </a>. My research rests at the intersection of moral psychology, cultural evolution, and computational social science. Specifically, I’m interested in how moral and cultural representations are formed, how they evolve across history and societies, and how they are encoded (sometimes imperfectly) into modern technologies like Large Language Models. I integrate psychometrics, econometrics, and computational methods to pursue these questions.
 
 <p>
-Prior to beginning my doctoral studies, I earned my BA in Psychology (with a minor in French) from the University of Texas at Austin, where I worked in the Pennebaker Lab on the 2022 edition of the Linguistic Inquiry and Word Count (LIWC).
-<p>
-When I’m not glued to my computer, you can usually find me homebrewing, playing with my cat, rehearsing with a local orchestra, or offering unsolicited literary commentary on books I find neat (see Notes for more).
-<p>
-I'm always happy to connect -- whether it be about research, NSF applications, or shared interests. Feel free to reach out at azewail[at]umass[dot]edu :-)
+  Hello! I'm Aliah Zewail, an NSF Graduate Research Fellow and PhD student in Social Psychology at the University of Massachusetts Amherst, where I work with Dr. Mohammad Atari in the
+  <a href="https://websites.umass.edu/matari/" target="_blank" rel="noopener">Culture and Morality Lab</a>.
+  My research rests at the intersection of moral psychology, cultural evolution, and computational social science. Specifically, I’m interested in how moral and cultural representations are formed, how they evolve across history and societies, and how they are encoded (sometimes imperfectly) into modern technologies like Large Language Models. I integrate psychometrics, econometrics, and computational methods to pursue these questions.
 </p>
-</div>
+
+<p>
+  Prior to beginning my doctoral studies, I earned my BA in Psychology (with a minor in French) from the University of Texas at Austin, where I worked in the Pennebaker Lab on the 2022 edition of the Linguistic Inquiry and Word Count (LIWC).
+</p>
+
+<p>
+  When I’m not glued to my computer, you can usually find me homebrewing, playing with my cat, rehearsing with a local orchestra, or offering unsolicited literary commentary on books I find neat (see <a href="/notes/">Notes</a>).
+</p>
+
+<p>
+  I’m always happy to connect -- whether it be about research, NSF applications, or shared interests. Feel free to reach out at azewail[at]umass[dot]edu :-)
+</p>
 
 <hr class="hr--small">
 
@@ -52,8 +55,3 @@ I'm always happy to connect -- whether it be about research, NSF applications, o
     <li><strong>[{{ item.date }}]</strong> {{ item.text }}</li>
   {% endfor %}
 </ul>
-
-<style>
-  .news-list { margin-top: 0.75rem; }
-  .news-list li { margin-bottom: 0.5rem; }
-</style>
