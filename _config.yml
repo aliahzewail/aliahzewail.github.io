@@ -60,22 +60,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Aliah Zewail"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "NSF Graduate Research Fellow | PhD student at University of Massachusetts Amherst"
+  name: "Aliah Zewail"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "NSF Graduate Research Fellow | PhD student at University of Massachusetts Amherst"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/aliahzewail"
 
 footer:
   links:
