@@ -5,12 +5,12 @@ layout: single
 author_profile: true
 ---
 
-A small and quiet space for informal writing—literary marginalia, brewing notes, music practice reflections, and other curiosities that sit alongside my academic work.
+A small and quiet space for informal writing--literary marginalia, brewing notes, music practice reflections, and other curiosities that sit alongside my academic work.
 
 <hr class="hr--small">
 
 ## Literary Notes
-- [Literary Renaissance](/notes/odyssey/)
+- [Literary Renaissance](/notes/literary/)
 - [Why I annotate books in pen](/notes/annotating/)
 
 ## Brewing Notes
