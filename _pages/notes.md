@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-A small and quiet space for informal writing--literary marginalia, brewing notes, music practice reflections, and other curiosities that sit alongside my academic work. [Under construction]
+A small and quiet space for informal writing -- literary marginalia, brewing notes, music practice reflections, and other curiosities that sit alongside my academic work. [Under construction]
 
 <hr class="hr--small">
 
