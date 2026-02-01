@@ -1,7 +1,7 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Academic CV"
+  - title: "CV"
     url: /CV/
   - title: "Papers"
     url: /papers/
