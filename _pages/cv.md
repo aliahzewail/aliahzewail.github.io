@@ -1,6 +1,6 @@
 ---
 title: "Academic CV"
-permalink: /cv/
+permalink: /CV/
 layout: single
 author_profile: true
 ---
