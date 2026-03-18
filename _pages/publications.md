@@ -46,6 +46,19 @@ author_profile: true
 ## Peer-Reviewed Articles
 
 <div class="pub-item">
+  <a href="https://www.pnas.org/doi/full/10.1073/pnas.2519941123"
+     target="_blank" rel="noopener" class="pub-title">
+    Moral Stereotyping in Large Language Models
+  </a>
+  <div class="pub-venue">
+    Proceedings of the National Academy of Sciences | March 2026
+  </div>
+  <div class="pub-authors">
+    <strong>Aliah Zewail</strong>, Alex Figueroa, Jesse Graham, & Mohammad Atari
+  </div>
+</div>
+
+<div class="pub-item">
   <a href="https://journals.sagepub.com/doi/abs/10.1177/09567976251398471"
      target="_blank" rel="noopener" class="pub-title">
     Public Speakers With Non-Native Accents Garner Less Engagement
@@ -54,7 +67,7 @@ author_profile: true
     Psychological Science | December 2025
   </div>
   <div class="pub-authors">
-    <strong>Aliah Zewail</strong>, Reihane Boghrati, Amir Sepehri, & Mohammad Atari
+    <strong>Aliah Zewail</strong>, Amir Sepehri, Reihane Boghrati, & Mohammad Atari
   </div>
 </div>
 
@@ -74,19 +87,6 @@ author_profile: true
 ---
 
 ## Preprints
-
-<div class="pub-item">
-  <a href="https://osf.io/preprints/psyarxiv/t9x8r_v1"
-     target="_blank" rel="noopener" class="pub-title">
-    Moral Stereotyping in Large Language Models
-  </a>
-  <div class="pub-venue">
-    Preprint
-  </div>
-  <div class="pub-authors">
-    <strong>Aliah Zewail</strong>, Alex Figueroa, Jesse Graham, & Mohammad Atari
-  </div>
-</div>
 
 <div class="pub-item">
   <a href="https://osf.io/preprints/psyarxiv/t9x8r_v1](https://osf.io/download/pk4ns"
