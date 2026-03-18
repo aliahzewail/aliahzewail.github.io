@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-<p class="page__meta">Last updated: January 30th, 2026.</p>
+<p class="page__meta">Last updated: March 18th, 2026.</p>
 
 <hr class="hr--small">
 
